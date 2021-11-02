@@ -41,3 +41,6 @@ venv.bak/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Ignore output of test-it.py
+ASCII_art.txt
