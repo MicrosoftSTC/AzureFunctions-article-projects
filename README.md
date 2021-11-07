@@ -8,8 +8,8 @@ Obsahuje kód k úvodnímu článku. Zapeneme přes příkaz func start. Kód je
 
 ## 2 -
 
-Obsahuje kód k úvodnímu článku. Zapeneme přes příkaz func start. Kód je psaný v pythonu. Pokud chcete kód ozkoušet, tak zapněte funkci (func start). Poté zpusťte "python test-it.py".
+Obsahuje kód k článku. Zapeneme přes příkaz func start. Kód je psaný v pythonu. Pokud chcete kód ozkoušet, tak zapněte funkci (func start). Poté zpusťte "python test-it.py".
 
 ## 3 - Scheduler
 
-// TODO
+Obsahuje kód k úvodnímu článku. Zapeneme přes příkaz func start. Kód je psaný v JavaScriptu (node v. 14.16.1). Zapneme přes func start. Všechna nutná nastavení jsou napsána ve článku.
