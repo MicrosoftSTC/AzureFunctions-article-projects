@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptionId": {
+            "value": "03b1aa87-7523-4435-8ed6-fa5051f678e1"
+        },
+        "name": {
+            "value": "pleaseChangeThis"
+        },
+        "location": {
+            "value": "West Europe"
+        },
+        "hostingPlanName": {
+            "value": "ASP-ExampleAzureFunctionsNode-a85e"
+        },
+        "serverFarmResourceGroup": {
+            "value": "Example-AzureFunctions-Node"
+        },
+        "alwaysOn": {
+            "value": false
+        },
+        "use32BitWorkerProcess": {
+            "value": false
+        },
+        "storageAccountName": {
+            "value": "storageaccountexampaa26"
+        },
+        "linuxFxVersion": {
+            "value": "Node|14"
+        },
+        "sku": {
+            "value": "Dynamic"
+        },
+        "skuCode": {
+            "value": "Y1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
+        },
+        "numberOfWorkers": {
+            "value": "1"
+        }
+    }
+}

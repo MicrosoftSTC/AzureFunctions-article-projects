@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptionId": {
+            "value": "03b1aa87-7523-4435-8ed6-fa5051f678e1"
+        },
+        "name": {
+            "value": "pleaseChangeThisSiteName"
+        },
+        "location": {
+            "value": "West Europe"
+        },
+        "hostingPlanName": {
+            "value": "ASP-ExampleAzureFunctionsPython-8902"
+        },
+        "serverFarmResourceGroup": {
+            "value": "Example-AzureFunctions-Python"
+        },
+        "alwaysOn": {
+            "value": false
+        },
+        "use32BitWorkerProcess": {
+            "value": false
+        },
+        "storageAccountName": {
+            "value": "storageaccountexamp9ffa"
+        },
+        "linuxFxVersion": {
+            "value": "Python|3.8"
+        },
+        "sku": {
+            "value": "Dynamic"
+        },
+        "skuCode": {
+            "value": "Y1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
+        },
+        "numberOfWorkers": {
+            "value": "1"
+        }
+    }
+}
